@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Dispositivo">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAACAAAAQAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dispositivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.AppMusical">
+    <Position X="6.5" Y="4.75" Width="7" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppMusical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.AppJuegos">
+    <Position X="0.5" Y="4.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppJuegos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Aplicacion">
+    <Position X="1" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAAAAAAgACEQAAAAAAAAEAAAAAAAAAAAABAAiQ=</HashCode>
+      <FileName>Aplicacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.SistemaOperativo">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>SistemaOperativo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
